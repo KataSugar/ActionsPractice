@@ -1,5 +1,4 @@
 import express from 'express';
-import { fileURLToPath } from 'url';
 
 const app = express();
 const PORT = 3000;
